@@ -40,9 +40,9 @@ Once again, I reinforce that this project has the sole goal of exploring PyCaret
 
 ----
 
-#### LinkedIn
+# LinkedIn
 
-I published an article on LinkedIn deaitling the whole process of this project. If you wish to read it, you can <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6942129523920384000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6942129523920384000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">click this link</a> to have access to it.
+I published an article on LinkedIn detailing the whole process of development for this project. If you wish to read it, you can <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6942129523920384000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6942129523920384000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">click here</a> to have access to it.
 
 ----
 
