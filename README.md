@@ -35,8 +35,14 @@ I finalized the model, using the tuned **Bayesian Ridge** regression model, and 
 
 # Conclusion
 We can conclude that the PyCaret library offers an easy way to explore and test different regression models of **machine learning** and choose which one of them is the best for our dataset.<br>
-With this study, it was possible to find a model that adjusted very well to our data and that was capable to predict the closing prices of the last 2 years with high levels of accuracy, sucessfuly indicating the direction of APPL stocks in that period.<br>
+With this study, it was possible to find a model that adjusted very well to our data and that was capable to predict the closing prices of the last 2 years with high levels of accuracy, successfully indicating the direction of APPL stocks in that period.<br>
 Once again, I reinforce that this project has the sole goal of exploring PyCaret's Regression library and I have no intention of recommending the purchase or sale of any financial asset nor I recommend using this strategy blindly to make investment decisions.<br>
+
+----
+
+#### LinkedIn
+
+I published an article on LinkedIn deaitling the whole process of this project. If you wish to read it, you can <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6942129523920384000?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6942129523920384000%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">click this link</a> to have access to it.
 
 ----
 
