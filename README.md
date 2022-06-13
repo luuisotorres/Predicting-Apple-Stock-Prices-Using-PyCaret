@@ -8,7 +8,7 @@
 
 # Introduction
 
-Who wouldn't like to have the hability to predict the future prices of stocks and other financial assets? Such skill would help us to make investment decisions without falling prey to the strong emotions of **doubt**, **fear** and **panic** that takes so many investors and traders into a path of losing money in the long run.<br><br>
+Who wouldn't like to have the ability to predict the future prices of stocks and other financial assets? Such skill would help us to make investment decisions without falling prey to the strong emotions of **doubt**, **fear** and **panic** that takes so many investors and traders into a path of losing money in the long run.<br><br>
 With this idea in mind, I decided to develop a **machine learning** model to try to forecast the prices of Apple stocks through <a href = "https://www.ibm.com/topics/linear-regression"><b>linear regression</b> analysis</a>.<br><br>
 While I was studying on how to make such predictions, I came across a library called <a href = "https://pycaret.org/">PyCaret</a>, which is an open-source, low-code machine learning library in Python that automates machine learning workflows, ideal for those who are beginners in machine learning, such as myself.<br><br>
 Before starting the development of this project, I'd like to make it clear that this is nothing but a study on how to use PyCaret's regression lib to make predictions and I have no intention whatsoever to recommend you to buy or sell any financial asset. There are a lot of factors when it comes to making the market go up or down and no mathematical model will be able to predict with 100% accuracy news, wars, conflicts or any other thing that may trigger the feelings of **fear** or **greed** in investors.
