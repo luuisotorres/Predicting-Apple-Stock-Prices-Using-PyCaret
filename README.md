@@ -1,4 +1,4 @@
-<img src = 'https://ericonanalytics.com/wp-content/uploads/2021/01/image-13.png'><br>
+<img src = 'https://miro.medium.com/max/1024/1*Cku5-rqmqSIuhUyFkIAdIA.png'><br>
 # Predicting Apple Stock Prices Using PyCaret
 --<br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) <br>
