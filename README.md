@@ -46,5 +46,11 @@ I published an article on LinkedIn detailing the whole process of development fo
 
 ----
 
+# Kaggle
+
+I've been able to import this project onto Kaggle. I highly recommend you to <a href ="https://www.kaggle.com/code/lusfernandotorres/predicting-apple-stock-prices-using-pycaret">click here</a> to see it, so all the plottings done with Plotly and both the reports generated with Pandas Profiling will be available for interaction.
+
+----
+
 # Author
 **Luís Fernando Torres**
